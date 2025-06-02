@@ -9,7 +9,7 @@
 <h3> :man: &nbsp;About Me </h3>
 
   * ☀️ Data Engineer by Profession
-  * 🌑 Microsoft 3X Certified, Databricks Certified.
+  * 🌑 Microsoft 3X Certified, 2x AWS Certified & 2x Databricks Certified.
   * 😃 Super excited about ETL, Data Warehousing, Databases, Cloud, Big Data...
   * 👯 Feel free to reach out to collaborate on any of the above and anything Data!
   * 💜 Interests: soccer, internet culture, popular culture, photography...
